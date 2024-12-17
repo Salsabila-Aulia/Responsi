@@ -21,4 +21,4 @@ Data Lokasi Kantor Kecamatan di Kabupaten Kebumen diambil dari https://kebumenka
 ![Peta DIgital LoKet BooM](Responsi2/Peta.png)
 
 ## Profile Pembuat
-![Profil Pembuat LoKet BooM](Responsi2/Profil.png)
+![Profil Pembuat LoKet BooM](Responsi2/Profile.png)
